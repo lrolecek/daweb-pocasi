@@ -1,4 +1,4 @@
-# Úkol 7 - Počasí
+# Úkol - Počasí
 
 Vytvoř aplikaci, která bude ukazovat aktuální počasí ve vybraném místě a předpověď na další 4 dny.
 
